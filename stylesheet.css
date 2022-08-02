@@ -61,4 +61,32 @@ body .container .calculator-card {
 }
 body .attribution {
   text-align: center;
+}
+@media screen and (min-width: 1000px) {
+  body header {
+    width: 500px;
+  }
+  body header h1 {
+    font-size: 2.5em;
+  }
+  body .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80vw;
+    align-items: center;
+  }
+  body .container .card {
+    width: 300px;
+  }
+}
+@media screen and (min-width: 1600px) {
+  body .container {
+    max-width: 1400px;
+  }
+  body .stacked {
+    display: flex;
+    justify-content: space-between;
+    width: 680px;
+  }
 }/*# sourceMappingURL=stylesheet.css.map */
