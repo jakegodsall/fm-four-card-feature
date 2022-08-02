@@ -73,7 +73,7 @@ body .attribution {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 80vw;
+    width: 1050px;
     align-items: center;
   }
   body .container .card {
@@ -82,6 +82,7 @@ body .attribution {
 }
 @media screen and (min-width: 1600px) {
   body .container {
+    width: 80vw;
     max-width: 1400px;
   }
   body .stacked {
