@@ -28,7 +28,7 @@ Users should be able to:
 
 Here is the finished desktop design for the project.
 
-<img src="first-desktop.png" alt="Desktop layout" width=500px>
+<img src="first-desktop.png" alt="Desktop layout" width=750px>
 
 ### Links
 
