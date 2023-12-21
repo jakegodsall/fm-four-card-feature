@@ -1,0 +1,17 @@
+{
+    "name": "four-card-feature-frontend-practice",
+    "version": "1.0.0",
+    "description": "This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+    "main": "index.js",
+    "scripts": {
+        "dev": "lite-server --baseDir='src/'",
+        "sass": "sass ./src/sass:src/ --style compressed --no-source-map"
+    },
+    "keywords": [],
+    "author": "Jake Godsall",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.6.1",
+        "sass": "^1.69.5"
+    }
+}

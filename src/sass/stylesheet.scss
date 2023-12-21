@@ -2,7 +2,7 @@ $header-font-color: hsl(234, 12%, 34%);
 
 body {
     color: hsl(229, 6%, 66%);
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
 
     height: 100vh;
@@ -22,11 +22,9 @@ body {
             font-size: 1.6em;
 
             .bold {
-
                 font-weight: 600;
             }
         }
-
     }
 
     .container {
@@ -74,26 +72,24 @@ body {
         .calculator-card {
             border-top: solid hsl(212, 86%, 64%) 4px;
         }
-
     }
-
-
 
     .attribution {
         text-align: center;
+
+        a {
+            color: #fcaf4a;
+            text-decoration: none;
+        }
     }
 
     @media screen and (min-width: 1000px) {
-
         header {
-
             width: 500px;
 
             h1 {
                 font-size: 2.5em;
             }
-
-
         }
 
         .container {
