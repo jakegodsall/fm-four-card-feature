@@ -1,20 +1,6 @@
-# Frontend Mentor - Four card feature section solution
+# Four card feature Section (Frontend Mentor)
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
@@ -22,40 +8,34 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
+-   View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
 
-Here is the finished desktop design for the project.
-
-<img src="first-desktop.png" alt="Desktop layout" width=750px>
+<img src="./complete/first-desktop.png" alt="Desktop component" width="500px">
 
 ### Links
 
-- Live Site URL: [Netlify](https://jakegodsall-four-card-feature.netlify.app)
+-   Live Site URL: [Netlify](https://jakegodsall-four-card-feature.netlify.app/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   Mobile-first workflow
 
 ### What I learned
 
-- How to add a `box-shadow` to just the bottom side of a div by using a `spread-radius` equal to the negative of the `blur-radius`: 
+-   How to add a `box-shadow` to just the bottom side of a div by using a `spread-radius` equal to the negative of the `blur-radius`:
 
 ```css
 box-shadow: offset-x, offset-y, blur-radius=value, spread-radius=-value, colour;
 ```
 
-- How to more effectively judge sizes using Chrome dev tool's for rapid experimentation.
-
+-   How to more effectively judge sizes using Chrome dev tool's for rapid experimentation.
 
 ### Continued development
 
@@ -65,6 +45,18 @@ I feel I am now quite comfortable with the flexbox skills I know. As such, I sha
 
 ## Author
 
-- Website - [Jake Godsall](https://jakegodsall.com)
-- Frontend Mentor - [@jakegodsall](https://www.frontendmentor.io/profile/jakegodsall)
-- LinkedIn - [@godsalljake](https://www.linkedin.com/in/godsalljake/)
+-   Website - [Jake Godsall](https://jakegodsall.com)
+-   Frontend Mentor - [@jakegodsall](https://www.frontendmentor.io/profile/jakegodsall)
+-   LinkedIn - [@godsalljake](https://www.linkedin.com/in/godsalljake/)
+
+### Notes
+
+This project was originally completed on 1st August 2022.
+
+This repository is part of a series of repositories that have recently been cleaned and updated as part of an overhaul of my GitHub profile. The purpose of this overhaul was to ensure that each repository reflects my current development standards and practices, and to provide a cleaner, more professional appearance.
+
+The project is updated as of 27th December 2023.
+
+## License
+
+This project is open source and available under the [MIT License](https://github.com/jakegodsall/fm-order-summary-component/blob/master/LICENSE).
