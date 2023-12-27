@@ -5,6 +5,7 @@
     "main": "index.js",
     "scripts": {
         "dev": "lite-server --baseDir='src/'",
+        "build": "sass ./src/sass:src/ --style compressed --no-source-map",
         "sass": "sass ./src/sass:src/ --style compressed --no-source-map"
     },
     "keywords": [],
@@ -13,5 +14,6 @@
     "devDependencies": {
         "lite-server": "^2.6.1",
         "sass": "^1.69.5"
+        
     }
 }
