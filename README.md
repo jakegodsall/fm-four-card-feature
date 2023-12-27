@@ -59,4 +59,4 @@ The project is updated as of 27th December 2023.
 
 ## License
 
-This project is open source and available under the [MIT License](https://github.com/jakegodsall/fm-order-summary-component/blob/master/LICENSE).
+This project is open source and available under the [MIT License](https://github.com/jakegodsall/fm-four-card-feature/blob/main/LICENSE).
